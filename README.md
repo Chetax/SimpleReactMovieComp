@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+
+# Simple React Movie Component 
+ Fatching the data and show with the help of map iterator and delete button to delete movie from list 
+
+ ## Screenshort 🎞️
+ ![Screenshot 2023-12-28 173843](https://github.com/Chetax/SimpleReactMovieComp/assets/99749401/1b9bcc52-86af-43ab-8726-2326f8c136c6)
+
+![Screenshot 2023-12-28 173910](https://github.com/Chetax/SimpleReactMovieComp/assets/99749401/b314be45-1fab-4dcc-884c-e25e58b6a40e)
+
+![Screenshot 2023-12-28 173918](https://github.com/Chetax/SimpleReactMovieComp/assets/99749401/e6adde31-9d8f-49b7-9c07-299052be3c61)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
